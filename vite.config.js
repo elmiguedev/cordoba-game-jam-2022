@@ -3,7 +3,7 @@ export default {
     // config options
     base: "",
     build: {
-        assetsInlineLimit: '204800',
+        assetsInlineLimit: '2048000',
         outDir: "docs"
     }
 }
